@@ -13,7 +13,7 @@ function greeting($name , $gender=" ")
     }else
     echo "Hello $name <br>";
 }
-// Needed Output
+// Needed Output1
 echo greeting("Osama", "Male"); // Hello Mr Osama
 echo greeting("Eman", "Female"); // Hello Miss Eman
 echo greeting("Sameh"); // Hello Sameh
