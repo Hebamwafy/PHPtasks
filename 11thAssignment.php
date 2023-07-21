@@ -22,7 +22,7 @@ if(file_exists("Programming")==false)
 }
 
 echo "--------------Task 4--------------------<br>";
-/*
+
 function change_permissions( $file_name )
 {
     
@@ -48,7 +48,7 @@ function change_permissions( $file_name )
  change_permissions("Work.docx")."<br>";
  change_permissions("Delak.txt")."<br>";
 
- */
+ 
  echo "--------------Task 5--------------------<br>";
 
 // method 1
